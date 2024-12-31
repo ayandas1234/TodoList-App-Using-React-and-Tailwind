@@ -253,7 +253,9 @@ useEffect(() => {
 ---
 
 ## 🎥 Video
-<video controls src="2024-12-31 21-00-06.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/a56b3f51-b81b-46c9-8794-a018d91728c6
+
 ---
 
 ## 💡 Future Enhancements
