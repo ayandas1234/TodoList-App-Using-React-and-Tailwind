@@ -17,9 +17,9 @@
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack  <img height="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
 ### 1. Frontend:-
-* **React:** JavaScript library for building user interfaces, particularly useful for creating dynamic and interactive single-page applications (SPAs).
+* **React: ** JavaScript library for building user interfaces, particularly useful for creating dynamic and interactive single-page applications (SPAs).
 * **Tailwind CSS:** Utility-first CSS framework for rapid UI development, helping you style your app with pre-defined classes.
 * **React Icons:** Used for icons (e.g., `FaEdit` for the edit button and `MdDelete` for the delete button).
 * **UUID (v4):** Used to generate unique IDs for each todo item (`uuidv4`).
@@ -41,7 +41,7 @@
 * The checkbox toggles whether a todo is completed or not.
 * If a todo is completed, it is visually displayed with a `line-through` style.
 ---
-### 4. Libraries / Development Tools:-
+### 4. Libraries / Development Tools:- <img height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35"> <img height="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> <img height="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"> <img height="30" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png">
 * **Vite** (alternative to Create React App): A faster and more modern tool for setting up React projects.
 * **Git/GitHub:** Version control for code management.
 * **NPM:** Package managers to install and manage dependencies.
