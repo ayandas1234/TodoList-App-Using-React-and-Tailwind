@@ -19,7 +19,7 @@
 
 ## 🔧 Tech Stack  <img height="30" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png">  <img height="30" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
 ### 1. Frontend:-
-* **React: ** JavaScript library for building user interfaces, particularly useful for creating dynamic and interactive single-page applications (SPAs).
+* **React:** JavaScript library for building user interfaces, particularly useful for creating dynamic and interactive single-page applications (SPAs).
 * **Tailwind CSS:** Utility-first CSS framework for rapid UI development, helping you style your app with pre-defined classes.
 * **React Icons:** Used for icons (e.g., `FaEdit` for the edit button and `MdDelete` for the delete button).
 * **UUID (v4):** Used to generate unique IDs for each todo item (`uuidv4`).
